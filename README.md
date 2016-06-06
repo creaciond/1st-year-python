@@ -1,5 +1,13 @@
-# hse-coding
-Программирование, 1 курс
+hse-coding
+# Программирование, 1 курс
 
-# This is a test README.md file
-Hey, I'm Daria and that's a repository! Awesome, n'est pas? :)
+Домашки нумеруются по порядку: hwN.py
+(когда-нибудь тут будут задания к ним)
+
+Хокку состоит из:
+- hokku_maximova,
+- noms_m, noms_f,
+- adjectifs,
+- verbes
+
+wiki.htm — к домашке 9, guessaword — к домашке 7 или около того
