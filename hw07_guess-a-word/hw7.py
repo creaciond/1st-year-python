@@ -5,7 +5,7 @@ import random
 
 
 def getwords():
-    fv = open('guessaword_maximova.csv','r',encoding='utf-8')
+    fv = open('guessaword.csv','r',encoding='utf-8')
     words = {}
     for line in fv.readlines():
         var = line.split(',')
